@@ -1,0 +1,25 @@
+{
+  "isActivated": {
+    "default": true,
+    "fallback": false
+  },
+  "isHorizontal": {
+    "default": true,
+    "fallback": true
+  },
+  "spaceSize": {
+    "default": 5,
+    "fallback": 5,
+    "min": 1,
+    "max": {
+      "default": 20,
+      "fallback": 20,
+      "min": 1,
+      "max": 20
+    }
+  },
+  "opacity": {
+    "default": 0.5,
+    "fallback": 0.5
+  }
+}
