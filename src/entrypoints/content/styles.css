@@ -1,5 +1,5 @@
 .document-blind {
 	position: fixed;
 	background-color: rgb(0, 0, 0);
-	z-index: 100000;
+	z-index: 10000;
 }
